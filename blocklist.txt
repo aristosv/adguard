@@ -1,5 +1,6 @@
 ! amazon
 ||advice-ads.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
 
 ! google ads
 ||afs.googlesyndication.com^
@@ -21,6 +22,9 @@
 ! pinterest
 ||ads.pinterest.com^
 ||widgets.pinterest.com^
+
+! twitter
+||ads-api.twitter.com^
 
 ! yahoo
 ||udcm.yahoo.com^
