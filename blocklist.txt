@@ -1,9 +1,28 @@
+! amazon
 ||advice-ads.s3.amazonaws.com^
-||advertising-api-eu.amazon.com^
+
+! google ads
 ||afs.googlesyndication.com^
+
+! google analytics
 ||analytics.google.com^
 ||click.googleanalytics.com^
+
+! error trackers - bugsnag
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+
+! error trackers - sentry
 ||browser.sentry-cdn.com^
+app.getsentry.com
+
+! pinterest
+ads.pinterest.com
+widgets.pinterest.com
+
+! yahoo
 ||udcm.yahoo.com^
 ||partnerads.ysm.yahoo.com^
 ||log.fc.yahoo.com^
