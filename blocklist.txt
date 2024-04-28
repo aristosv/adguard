@@ -23,6 +23,9 @@
 ||ads.pinterest.com^
 ||widgets.pinterest.com^
 
+! tiktok
+||ads-api.tiktok.com^
+
 ! twitter
 ||ads-api.twitter.com^
 
