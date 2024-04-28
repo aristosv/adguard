@@ -9,18 +9,18 @@
 ||click.googleanalytics.com^
 
 ! error trackers - bugsnag
-notify.bugsnag.com
-sessions.bugsnag.com
-api.bugsnag.com
-app.bugsnag.com
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
 
 ! error trackers - sentry
 ||browser.sentry-cdn.com^
-app.getsentry.com
+||app.getsentry.com^
 
 ! pinterest
-ads.pinterest.com
-widgets.pinterest.com
+||ads.pinterest.com^
+||widgets.pinterest.com^
 
 ! yahoo
 ||udcm.yahoo.com^
