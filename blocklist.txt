@@ -31,8 +31,13 @@
 ||ads-api.twitter.com^
 
 ! yahoo
+||advertising.yahoo.com^
 ||udcm.yahoo.com^
 ||partnerads.ysm.yahoo.com^
 ||log.fc.yahoo.com^
 ||gemini.yahoo.com^
 ||udc.yahoo.com^
+||adtech.yahooinc.com^
+
+! yandex
+||appmetrica.yandex.ru^
